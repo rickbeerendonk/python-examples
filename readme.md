@@ -5,7 +5,7 @@
 Run the examples on the command line with:
 
 ```zsh
-python <filename>.py
+python3 <filename>.py
 ```
 
 ## Licence

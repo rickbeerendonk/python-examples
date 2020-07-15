@@ -19,3 +19,5 @@ print(type(0o1234_5670_1234))
 # hexinteger 0..9 a..f
 print(type(0xabcdef))  
 print(type(0xab_cd_ef_ab_cd_ef))  
+
+# <class 'int'>

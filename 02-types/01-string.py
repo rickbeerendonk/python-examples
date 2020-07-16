@@ -3,3 +3,5 @@
 
 print(type('text'))
 print(type("text"))
+
+# <class 'str'>

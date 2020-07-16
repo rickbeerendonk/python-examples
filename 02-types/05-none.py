@@ -1,4 +1,6 @@
 # European Union Public License version 1.2
 # Copyright © 2020 Rick Beerendonk
 
-print(type(None))
+#  Signifies the absence of a value
+
+print(type(None))  # <class 'NoneType'>

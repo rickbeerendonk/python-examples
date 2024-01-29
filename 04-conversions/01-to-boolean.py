@@ -24,7 +24,7 @@ print(bool(1.0))  # True
 print(bool(0j))  # False
 print(bool(1j))  # True
 
-# Imaginary
+# None
 
 print(bool(None))  # False
 

@@ -1,6 +1,6 @@
 # European Union Public License version 1.2
 # Copyright © 2020 Rick Beerendonk
 
-print("test")
+print("Hello Python!")
 
-# test
+input("What is your name? ")  # Returns a string

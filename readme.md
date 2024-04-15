@@ -1,5 +1,9 @@
 # Python Examples
 
+Examples for [Python](https://www.python.org/).
+
+![](https://img.shields.io/github/license/rickbeerendonk/python-examples.svg)
+
 ## Run
 
 Run the examples on the command line with:

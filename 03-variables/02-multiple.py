@@ -1,11 +1,14 @@
 # European Union Public License version 1.2
 # Copyright © 2022 Rick Beerendonk
 
-one, two, three = True, 2, "three"
-print(one)
-print(two)
-print(three)
+# Same type
+one, two, three = 1, 2, 3
+print(one) # 1
+print(two) # 2
+print(three) # 3
 
-# True
-# 2
-# three
+# Different types: Confusing, but valid
+first, second, third = True, 2, "three"
+print(first) # True
+print(second) # 2
+print(third) # three

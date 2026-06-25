@@ -3,6 +3,8 @@
 
 dct = {"A": 1, "B": 2}
 
+# Update is different from assignment,
+# ...because it can update multiple keys at once.
 dct.update({"B": 20, "C": 3})
 
 for key, value in dct.items():

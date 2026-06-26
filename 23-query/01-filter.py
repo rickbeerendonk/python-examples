@@ -1,5 +1,5 @@
 # European Union Public License version 1.2
-# Copyright © 2025 Rick Beerendonk
+# Copyright © 2026 Rick Beerendonk
 
 numbers = [1, 2, 3, 4, 5]
 

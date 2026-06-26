@@ -3,7 +3,9 @@
 
 lst = ["A", "B", "C", "D"]
 
-lst.pop(1)  # Removes the second item
+removed = lst.pop(1)  # Removes the second item
+
+print(f"Removed: {removed}")  # B
 
 for item in lst:
     print(item)

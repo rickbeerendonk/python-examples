@@ -1,7 +1,7 @@
 # European Union Public License version 1.2
 # Copyright © 2026 Rick Beerendonk
 
-values = [1, 2, 3, 4, 5, 6, 7]
+values = [1, 2, 3, 4, 5, 6, 7] # Any iterable can be used
 
 # Step values
 print(values[::2])     # [1, 3, 5, 7]

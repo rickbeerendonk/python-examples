@@ -1,7 +1,7 @@
 # European Union Public License version 1.2
 # Copyright © 2026 Rick Beerendonk
 
-values = [1, 2, 3, 4, 5, 6, 7]
+values = [1, 2, 3, 4, 5, 6, 7] # Any iterable can be used
 
 # Reverse values
 print(values[::-1])    # [7, 6, 5, 4, 3, 2, 1]
